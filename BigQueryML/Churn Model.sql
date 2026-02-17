@@ -1,0 +1,1 @@
+SELECT * FROM ML.EVALUATE(MODEL `poetic-maxim-486609-e5.dbt_thelook.churn_model`);
